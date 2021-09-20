@@ -17,8 +17,12 @@
         <th colspan="2" scope="col">MENU</th>
         </tr>
       <tr>
+        <td>&gt;</td>
+        <td>Inicio</td>
+      </tr>
+      <tr>
         <td width="1%">&gt;</td>
-        <td>Unidad 1</td>
+        <td><a href="uc1/index.html">Unidad 1</a></td>
       </tr>
       <tr>
         <td>&gt;</td>
